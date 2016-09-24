@@ -1,14 +1,8 @@
-# SendEmail
+# SendEmailPDF
 
-pdf-icon
-Script para converter arquivo em PDF e enviar por e-mail pelo terminal.
+Este Script server para converter arquivo em PDF e enviar por e-mail pelo terminal.
 
 Programas usados: Enscript, ps2pdf e sendEmail.
-
-Tudo foi feito em um CentOS 6.7 minimal:
-
-http://vault.centos.org/6.6/isos/i386/
-http://vault.centos.org/6.6/isos/i386/CentOS-6.6-i386-minimal.iso
 
 Requisitos:
 
